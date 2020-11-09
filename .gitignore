@@ -72,3 +72,33 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+.kdev4/
+
+.vscode/
+
+CMakeLists.txt
+
+ElyClient.code-workspace
+
+ElyClient.pro
+
+ElyClient.uproject
+
+ElyClient.workspace
+
+ElyClientCodeCompletionFolders.txt
+
+ElyClientCodeLitePreProcessor.txt
+
+ElyClientConfig.pri
+
+ElyClientDefines.pri
+
+ElyClientHeader.pri
+
+ElyClientIncludes.pri
+
+ElyClientSource.pri
+
+Makefile
