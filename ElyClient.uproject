@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004CC71-08D8-7F77-5B6D-82DC3CD852EA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ElyClient",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
